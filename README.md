@@ -1,12 +1,12 @@
-# Advanced Regression using Ridge and Lasso
+# Surprise Housing
 In this assignment, we are analyzing housing prices in one region to predict the features that drive the house prices for a company called 'Surprise Housing'. Company would 
-For this assignment, I have followed below steps:
-Reading and Understanding Data
-Data Visualisation
-Data Preparation
-Feature selection using RFE
-Data modeling using Ridge and Lasso
-Features that are important in predicting the SalePrice
+I have followed below steps to build regression mode.
+- Reading and Understanding Data
+- Data Visualisation
+- Data Preparation
+- Feature selection using RFE
+- Data modeling using Ridge and Lasso
+- Features that are important in predicting the SalePrice
 
 
 ## Table of Contents

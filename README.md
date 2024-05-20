@@ -1,4 +1,4 @@
-# Project Name
+# Advanced Regression using Ridge and Lasso
 In this assignment, we are analyzing housing prices in one region to predict the features that drive the house prices for a company called 'Surprise Housing'. Company would 
 For this assignment, I have followed below steps:
 Reading and Understanding Data
